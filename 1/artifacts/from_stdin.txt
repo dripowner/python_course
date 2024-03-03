@@ -1,0 +1,12 @@
+(venv) PS E:\python_course\1> python .\nl.py                    
+1
+
+2
+3
+
+^Z
+1 1
+2
+3 2
+4 3
+5
