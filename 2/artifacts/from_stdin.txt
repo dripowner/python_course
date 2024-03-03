@@ -1,0 +1,44 @@
+(venv) PS E:\python_course\2> python tail.py
+1
+23
+3
+4
+5
+6
+7
+8
+9
+10
+11
+ 
+ 
+12
+13
+14
+15
+156
+16
+bgrf
+ergt
+tr
+^Z
+==> stdin <==
+6
+7
+8
+9
+10
+11
+
+
+12
+13
+14
+15
+156
+16
+bgrf
+ergt
+tr
+
+(venv) PS E:\python_course\2>
