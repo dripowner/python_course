@@ -1,0 +1,4 @@
+(venv) PS E:\python_course\3> python wc.py test.txt test1.txt
+        4       5       35      test.txt
+        5       7       58      test1.txt
+        9       12      93      total

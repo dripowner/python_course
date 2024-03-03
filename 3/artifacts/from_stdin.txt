@@ -1,0 +1,7 @@
+(venv) PS E:\python_course\3> python wc.py
+Linux
+Manjaro
+Losst
+Linus Torvalds
+^Z
+        4       5       35

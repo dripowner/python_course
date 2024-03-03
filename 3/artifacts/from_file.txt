@@ -1,0 +1,2 @@
+(venv) PS E:\python_course\3> python wc.py test.txt          
+        4       5       35      test.txt
