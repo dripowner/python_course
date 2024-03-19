@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/tex_package_ilya_goldobin/__init__.py
+src/tex_package_ilya_goldobin/func.py
+src/tex_py_ig.egg-info/PKG-INFO
+src/tex_py_ig.egg-info/SOURCES.txt
+src/tex_py_ig.egg-info/dependency_links.txt
+src/tex_py_ig.egg-info/top_level.txt
