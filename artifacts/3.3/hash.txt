@@ -1,0 +1,2 @@
+AB hash = 234
+CD hash = 230
